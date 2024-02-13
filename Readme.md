@@ -1,4 +1,4 @@
-# Linear Regression Model for Conversion Factor Estimation
+# Supervised Learning for Cost-Effective Solution | Linear Regression Modeling
 
 ## Overview
 Developed a linear regression model to estimate the conversion factor between measurements obtained from equipment used in Bit Error Rate testing of differential pair cables. The goal was to asses the accuracy of a newer cost effective equipment and establish a relationship between the measurements compared to an older more accurate equipment.
